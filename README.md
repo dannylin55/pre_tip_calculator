@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-gif: 
+gif: http://recordit.co/YxOdhEC3cz
 
 <img src="http://recordit.co/YxOdhEC3cz" width=250><br>
 
