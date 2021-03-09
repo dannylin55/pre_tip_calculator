@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 gif: http://recordit.co/YxOdhEC3cz
 
-<img src='http://recordit.co/YxOdhEC3cz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://recordit.co/YxOdhEC3cz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## License
 
     Copyright [2021] [Danny]
